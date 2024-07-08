@@ -19,7 +19,7 @@
 def hello_name(user_name):
     print(f"hello_{user_name}!")
 
-    hello_name("Alice")
+    hello_name("Dezzy")
         
                
 #Question 2
@@ -30,7 +30,7 @@ def hello_name(user_name):
             if number % 2 != 0:
                print(number)
             
-    first_odds()        
+    first_odds(1, 101)       
                
 
 #Question 3
